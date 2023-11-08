@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm DilaraMammadli</h1>
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQEV1muz9CtOwA/profile-displaybackgroundimage-shrink_350_1400/0/1693761987245?e=1704931200&v=beta&t=ISOZ-VxuJ4wknsmra3ijQmPRqg437zCZp1P1k39DVLg)
+<h1 align="center">DilaraMammadli</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
